@@ -1,6 +1,6 @@
-#cep146 Demo 1!
+# cep146 Demo 1!
 
-##What is this repository for?
+## What is this repository for?
 
 This is a demo repository for week 4 of cep 146
 
@@ -10,15 +10,14 @@ Repository url: [cep146-demo1](https://github.com/jayden8th/cep146-demo1)
 
 **Bold**
 
-`italics?`
+*italics?*
 
-*idk*
+`idk`
 
-###Whats next?!?!
+### Whats next?!?!
 
 ***BOLD ITALICS?!***
 
-####lists
 
 -thing 1
 -thing 2?
