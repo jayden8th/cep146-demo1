@@ -6,7 +6,7 @@ Welcome to my academic portfolio for (put your course name and section here)!
 - Name: Jayden
 - Program: IDONTKNOW :/
 - Year: IDONTKNOW (>u<)
-- Favorite Programming Language: python because it is easy (or so I have heard) if not that then javascript because its easy or so I have done.
+- Favorite Programming Language: python because it is easy (or so I have heard) if not that then javascript because its easy (or so I have done).
  
 ## Course Goals
 - [ ] learn skills that will help me making a company
