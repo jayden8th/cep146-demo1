@@ -3,16 +3,16 @@
 Welcome to my academic portfolio for (put your course name and section here)!
  
 ## About Me
-- Name: (put your name here)
-- Program: (put your program name here)
-- Year: (put your academic year and semester here)
-- Favorite Programming Language: (put your choice here)
+- Name: Jayden
+- Program: IDONTKNOW :/
+- Year: IDONTKNOW (>u<)
+- Favorite Programming Language: python because it is easy (or so I have heard) if not that then javascript because its easy or so I have done.
  
 ## Course Goals
-- [ ] Learn version control with Git and GitHub
-- [ ] Complete all lab assignments
-- [ ] Build a professional portfolio
-- [ ] Collaborate on group projects
+- [ ] learn skills that will help me making a company
+- [ ] learn a flat frontflip on concrete by the end of the month
+- [ ] learn how to cook
+- [ ] make friends >>>>>>><<<><><><><><><><>>>
  
 ## Projects
 *This section will be updated as I complete assignments*
