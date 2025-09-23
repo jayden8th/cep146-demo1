@@ -19,13 +19,13 @@ Repository url: [cep146-demo1](https://github.com/jayden8th/cep146-demo1)
 ***BOLD ITALICS?!***
 
 
--thing 1
--thing 2?
--thing 3
--thing 4
-    -thing 4.1?
-    -thing 4.2?
--thing 5?
+- thing 1
+- thing 2?
+- thing 3
+- thing 4
+    - thing 4.1?
+    - thing 4.2?
+- thing 5?
 
 #### AHHHHAHAHhhh
 
