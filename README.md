@@ -13,7 +13,8 @@ Welcome to my academic portfolio for (put your course name and section here)!
 - [x] learn a flat frontflip on concrete by the end of the month
 - [ ] learn how to cook
 - [ ] make friends >>>>>>><<<><><><><><><><>>>
- 
+- [ ] be really freeking stronk and do something cool like front planche or front lever
+
 ## Projects
 *This section will be updated as I complete assignments*
 
