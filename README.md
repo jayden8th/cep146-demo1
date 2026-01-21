@@ -10,7 +10,7 @@ Welcome to my academic portfolio for (put your course name and section here)!
  
 ## Course Goals
 - [ ] learn skills that will help me making a company
-- [x] learn a flat frontflip on concrete by the end of the month
+- [x] learn a flat frontflip on concrete
 - [ ] learn how to cook
 - [ ] make friends >>>>>>><<<><><><><><><><>>>
 - [ ] be really freeking stronk and do something cool like front planche or front lever
